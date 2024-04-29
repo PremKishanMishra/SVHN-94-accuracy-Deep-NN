@@ -25,3 +25,5 @@ http://ufldl.stanford.edu/housenumbers as the URL for this site.
 • PROJECT OBJECTIVE: To build a digit classifier on the SVHN (Street View Housing Number) dataset.
 
 #DATASET : https://www.kaggle.com/datasets/stanfordu/street-view-house-numbers
+https://www.kaggle.com/datasets/sasha18/street-view-house-nos-h5-file/code
+            
