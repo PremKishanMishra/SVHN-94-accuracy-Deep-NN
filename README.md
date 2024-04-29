@@ -26,4 +26,9 @@ http://ufldl.stanford.edu/housenumbers as the URL for this site.
 
 #DATASET : https://www.kaggle.com/datasets/stanfordu/street-view-house-numbers
 https://www.kaggle.com/datasets/sasha18/street-view-house-nos-h5-file/code
-            
+
+
+#REFFERENCES: https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739
+https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html
+https://arxiv.org/abs/1502.03167
+https://www.kaggle.com/code/moidhasan/cnn-introduction-tensorflow-2-0-ipynb
